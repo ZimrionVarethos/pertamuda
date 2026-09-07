@@ -1,0 +1,8 @@
+asset_code,observed_at,parameter,value,unit,interval_end,source_ref
+S10,2026-09-07T08:00:00+07:00,pressure,8.6,bar,,SCADA-P-TAG-01
+S10,2026-09-07T08:10:00+07:00,wall_loss,30,percent,,UT-LOG-SYNTH-2026
+S10,2026-09-07T08:20:00+07:00,methane_concentration,80,ppm,,OGI-SNIFFER-SYNTH
+S10,2026-09-07T08:30:00+07:00,methane_mass_rate,2.5,kg/h,2026-09-07T09:30:00+07:00,HI-FLOW-SAMPLER
+C20,2026-09-07T08:00:00+07:00,pressure,33.5,bar,,SCADA-P-TAG-02
+C20,2026-09-07T08:15:00+07:00,methane_concentration,85,ppm,,OGI-SNIFFER-SYNTH
+C20,2026-09-07T08:30:00+07:00,methane_mass_rate,3.2,kg/h,2026-09-07T09:30:00+07:00,HI-FLOW-SAMPLER
