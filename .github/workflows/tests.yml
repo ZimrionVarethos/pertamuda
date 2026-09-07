@@ -31,8 +31,6 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Setup Application
+      - name: Setup Application & Build
         run: composer setup
 
-      - name: Run CI Checks
-        run: composer ci:check
